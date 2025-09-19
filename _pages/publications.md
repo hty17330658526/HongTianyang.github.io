@@ -15,7 +15,7 @@ nav_order: 1
 可是这么一来就一点意义也没有
 我的高尚情操一直不断提醒着我
 离开你的我无论过多久 还是会寂寞
-
+写点歌词
 
 <br>
 <a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/publications.md">
